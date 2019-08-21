@@ -65,5 +65,5 @@ Copyright 2011 Whisper Systems
 Copyright 2013-2017 Open Whisper Systems
 
 Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
-
+ 
 Google Play and the Google Play logo are trademarks of Google Inc.
